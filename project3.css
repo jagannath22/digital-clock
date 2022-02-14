@@ -1,0 +1,145 @@
+#main1 {
+    display:block ;
+    position: absolute;
+    left: 485px;
+    width: 268px;
+    height: 268px;
+    padding: 50px;
+    border: 2px solid red;
+    margin: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.k {
+    display: flex;
+}
+.r{
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+.r li{
+    display: inline-block;
+    padding: 7px;
+}
+.r li a{ 
+    text-decoration: none;
+        color: rgb(197, 66, 66);
+        padding: 5px 5px;  
+        font-size: 1.2em;    
+}
+
+
+#a-1 {
+    display: block;
+    position: absolute;
+    left: 42px;
+    border: 2px solid black;
+    width: 44px;
+    height: 80px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: antiquewhite;
+    font-size: 2.7em;
+    text-align: center;
+
+
+}
+
+#b-1 {
+    display: block;
+    position: absolute;
+    left: 129px;
+    border: 2px solid black;
+    width: 44px;
+    height: 80px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: antiquewhite;
+    font-size: 2.7em;
+    text-align: center;
+}
+
+#c-1 {
+    display: block;
+    position: absolute;
+    left: 218px;
+    border: 2px solid black;
+    width: 44px;
+    height: 80px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: antiquewhite;
+    font-size: 2.7em;
+    text-align: center;
+}
+.r-1{
+    display: inline-block;
+    position: absolute;
+    top: 172px;
+    left: 25px;
+}
+.r-1 li{
+    display: inline-block;
+    padding: 13px;
+}
+.r-1 li a{ 
+    text-decoration: none;
+        color: rgb(197, 66, 66);
+        padding: 5px 5px;  
+        font-size: 1.2em;    
+}
+#d{
+    position: absolute;
+    border: 2px solid black;
+    top: 208px;
+    left: 28px;
+    width: 245px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: antiquewhite;
+    
+    
+}
+#e{
+    position: absolute;
+    border: 2px solid black;
+    top: -22px;
+    left: -16px;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: rgb(161, 113, 50);
+    font-size: 2.7em;
+    text-align: center;
+}
+#h{
+    position: absolute;
+    border: 2px solid black;
+    top: -22px;
+    left: 86px;
+    width: 60px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: rgb(148, 99, 35);
+    font-size: 2.3em;
+    text-align: center;
+}
+#j{
+    position: absolute;
+    border: 2px solid black;
+    top: -22px;
+    left: 169px;
+    width: 59px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px 15px;
+    background-color: rgb(148, 99, 35);
+    font-size: 2.7em;
+    text-align: center;
+} 
